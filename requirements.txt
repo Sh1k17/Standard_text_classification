@@ -1,0 +1,7 @@
+fasttext==0.8.4
+loguru==0.6.0
+numpy==1.24.2
+pandas==1.5.3
+scikit_learn==1.2.1
+torch==1.10.2
+tqdm==4.65.0
